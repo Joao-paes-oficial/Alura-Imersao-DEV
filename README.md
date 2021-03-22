@@ -1,1 +1,3 @@
-# Alura---Imers-o-DEV
+# Alura - Imerção DEV
+
+# Alura - DEV immersion
